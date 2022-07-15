@@ -19,7 +19,6 @@ public class SubtractSmallNumberByLArgeNumber extends TestBase {
 		
 		cal.verifyResults();
 		
-	
 		
 	}
 
