@@ -17,10 +17,7 @@ public class Divide extends TestBase {
 		cal.Two();
 		cal.Results();
 		
-		cal.verifyResults();
-		
-	
-		
+		cal.verifyResults();	
 	}
 
 }
